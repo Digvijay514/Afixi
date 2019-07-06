@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fb_alike</string>
+    <string name="profile_name">Husky</string>
+    <string name="add_story">Add to Story</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="view_as">View as</string>
+    <string name="more_icon">more</string>
+    <string name="login_button">Login</string>
+    <string name="prompt_email">Your Email</string>
+    <string name="prompt_password">Password</string>
+</resources>
